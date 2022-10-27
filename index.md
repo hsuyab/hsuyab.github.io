@@ -2,7 +2,7 @@
 
 and I am a Machine Learning and AI researcher with a strong passion for solving human problems using technology.
  
--👨🏻‍💻 As Researcher at [TCS Incubation](https://www.tcs.com/tcs-incubation), I am working on addressing the following problems:
+- 👨🏻‍💻 As Researcher at [TCS Incubation](https://www.tcs.com/tcs-incubation), I am working on addressing the following problems:
   - Improving ⚡️ resource utililization and also making cloud usage more 🌱 sustainable.
   - Increasing the trust and confidence in time series forecasting by incorporating various uncertainty quantification methods
     and explainability approaches for models.
@@ -12,7 +12,7 @@ and I am a Machine Learning and AI researcher with a strong passion for solving 
 - 💻 I am also passionate about contibuting to open source.
 - 🎮 But most of all, I am a passionate coder who loves open-source software! 
 - 📖 I love reading and enjoy listening to 🎧 podcasts.
----
+
 
 <!--
 If you are interested in more details, check out [my website]()!  
