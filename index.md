@@ -21,7 +21,7 @@ PS:
 - 📫 You can also find me on Twitter [(@hsuyab)](https://twitter.com/hsuyab),  
 - and [Linkedin](https://www.linkedin.com/in/ayushbihani/)!
 
-
+<!-- 
 ### Papers
 * Paper 1
 * Paper 2
@@ -39,3 +39,4 @@ Add some text here
 * Other Links
   * [Twitter](https://www.twitter.com/hsuyab)
   * [Linkedin](https://linkedin.com/in/ayushbihani)
+ -->
